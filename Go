@@ -648,5 +648,3 @@ script.Parent.MouseButton1Click:Connect(function()
   frame.Visible = false
 end)
 end
-Related Roblox Scripts
-
